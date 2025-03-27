@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathaniel-auvil
 - 👀 I’m interested in ... solving problems
-- 🌱 I’m currently learning ... Node
+- 🌱 I’m currently learning ... Vibe coding with Python in Cursor
 - 💞️ I’m looking to collaborate on a space based strategy MMO I have been toying with for over a decade 
 - 📫 How to reach me ...
 
